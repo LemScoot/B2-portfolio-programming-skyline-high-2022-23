@@ -1,6 +1,6 @@
 # This is my README file for Programming in 2022-23 year of High School
-## For Semester 1, you will need to download processing from a website called Processing.org
-## For Semester 2, you will need to use a website called Replit.com.
+#### For Semester 1, you will need to download processing from a website called Processing.org
+#### For Semester 2, you will need to use a website called Replit.com.
 
 
 # Semester 1
@@ -55,11 +55,11 @@ A person we created
 ### Collision Detection
 This is my intro to collision detection
 
-[Collision Detection]()
+[Collision Detection](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/ColDet)
 
 # Semester 2
 
-### 99 Bottles
+#### 99 Bottles
 Made with the song in mind 99 bottles of milk on the wall
 
 [99 Bottles](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/99%20Bottles)
