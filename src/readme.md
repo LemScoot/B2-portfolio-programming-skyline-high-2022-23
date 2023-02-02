@@ -1,7 +1,7 @@
 ### Hello, My name is Liam Scott and this is my Programming README file for all my projects in 2022-23 Junior Year or High School
 
 
-### Semester 1
+## Semester 1
 
 ## SpaceGame
 ![SpaceGame]()
@@ -19,7 +19,7 @@
 ## ScreenSaver
 ![ScreenSaver]()
 
-### Semester 2
+## Semester 2
 
 ## 99 Bottles
 ![99 Bottles]()
