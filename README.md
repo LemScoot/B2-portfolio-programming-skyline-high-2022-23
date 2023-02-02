@@ -47,13 +47,21 @@ This is my intro to collision detection
 ## Semester 2
 
 ### 99 Bottles
+Made with the song in mind 99 bottles of milk on the wall
 ![99 Bottles](https://replit.com/@LiamScott3/99Bottles#main.py)
 
 ### Number Guessing Game
+This is a pretty cool game where the computer randomly makes a number between 1 and 100 and the use has to guess it
 ![Number Guessing Game](https://replit.com/@LiamScott3/Random-Number-Game-2023#main.py)
 
 ### Shape Tester
+You get to make any size shape
 ![Shape Tester - Still Under Production]()
 
-### Date and Time
+#### Date and Time
+Tells you the date and time of the current date and time
 ![Date and Time](https://replit.com/@LiamScott3/DateandTime)
+
+### Pig Latin
+Converts normal english to Pig Latin
+![PigLatin - Still Under Production]()
