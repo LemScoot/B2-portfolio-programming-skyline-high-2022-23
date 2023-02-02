@@ -29,21 +29,21 @@
 ![WARNING!! Continue at your own risk](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Seizure_machine)
 
 ### Zoog
-![Zoog]()
+![Zoog](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Zoog)
 
 ### ColDet
-![Collision Detection]()
+![Collision Detection](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/ColDet)
 
 ## Semester 2
 
 ### 99 Bottles
-![99 Bottles]()
+![99 Bottles](https://replit.com/@LiamScott3/99Bottles#main.py)
 
 ### Number Guessing Game
-![Number Guessing Game]()
+![Number Guessing Game](https://replit.com/@LiamScott3/Random-Number-Game-2023#main.py)
 
 ### Shape Tester
-![Shape Tester]()
+![Shape Tester - Still Under Production]()
 
 ### Date and Time
-![Date and Time]()
+![Date and Time](https://replit.com/@LiamScott3/DateandTime#main.py)
