@@ -1,4 +1,4 @@
-## Hello, My name is Liam Scott and this is my Programming README file for all my projects in 2022-23 year of High School. You need Processing for all of Semester 1.
+## Hello, My name is Liam Scott and this is my Programming README file for all my projects in 2022-23 year of High School. You need Processing for all of Semester 1. For Semester 2, you will need to use a website called Replit.com.
 
 
 ## Semester 1
@@ -48,11 +48,11 @@ This is my intro to collision detection
 
 #### 99 Bottles
 Made with the song in mind 99 bottles of milk on the wall
- [99 Bottles]()
+ [99 Bottles](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/99%20Bottles)
 
 #### Number Guessing Game
 This is a pretty cool game where the computer randomly makes a number between 1 and 100 and the use has to guess it
- [Number Guessing Game]()
+ [Number Guessing Game](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Random%20Number%20Game)
 
 #### Shape Tester
 You get to make any size shape
@@ -60,7 +60,7 @@ You get to make any size shape
 
 #### Date and Time
 Tells you the date and time of the current date and time
- [Date and Time]()
+ [Date and Time](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Date%20and%20Time)
 
 #### Pig Latin
 Converts normal english to Pig Latin
