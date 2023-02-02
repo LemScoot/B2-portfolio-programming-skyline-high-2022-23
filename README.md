@@ -26,7 +26,13 @@
 ![Grades](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Grades)
 
 ### Seizure Machine
-[WARNING!! Continue at your own risk](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Seizure_machine)
+![WARNING!! Continue at your own risk](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Seizure_machine)
+
+### Zoog
+![Zoog]()
+
+### ColDet
+![Collision Detection]()
 
 ## Semester 2
 
