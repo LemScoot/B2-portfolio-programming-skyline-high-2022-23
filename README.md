@@ -22,6 +22,12 @@
 ### ScreenSaver
 ![ScreenSaver]()
 
+### Grades
+![Grades]()
+
+### Seizure Machine
+[WARNING!! Continue at your own risk]()
+
 ## Semester 2
 
 ### 99 Bottles
