@@ -2,7 +2,7 @@
 
 ## Semester 1
 
-![SpaceGame] ()
+![SpaceGame]()
 
 ![Calculator]()
 
