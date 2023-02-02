@@ -32,6 +32,8 @@ This I can make a lot of. It's really easy. to make another clone of it
 
 [Metric to Imperial Convertor](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Metric_To_Imperial_Weight_Convertor)
 
+[Inches to Feet Converter](https://github.com/LemScoot/Skyline-High-Programming-2022-23/tree/main/src/Inches_To_Feet_Converter/sketch_220826b)
+
 #### ScreenSaver
 You can make this your screensaver if you want. It looks like the pipes screensaver from Windows 95 but 2D
 
