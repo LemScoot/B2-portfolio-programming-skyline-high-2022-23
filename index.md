@@ -62,8 +62,9 @@ This is my intro to collision detection
 #### Loops
 This is my introduction to while, and for loops
 
-[While Loop]()
-[For Loop]()
+[While Loop](https://github.com/LemScoot/Skyline-High-Programming-2022-23/tree/main/src/While_Loop)
+[For Loop](https://github.com/LemScoot/Skyline-High-Programming-2022-23/tree/main/src/For_Loop)
+[Another For Loop](https://github.com/LemScoot/Skyline-High-Programming-2022-23/tree/main/src/Loops)
 
 # Semester 2 - Made in Python
 
