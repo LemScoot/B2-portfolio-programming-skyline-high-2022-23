@@ -60,7 +60,7 @@ This is my intro to collision detection
 [Collision Detection](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/ColDet)
 
 #### Loops
-This is my introduction to while, and for loops
+This is my introduction to "while" and "for" loops
 
 [While Loop](https://github.com/LemScoot/Skyline-High-Programming-2022-23/tree/main/src/While_Loop)
 
