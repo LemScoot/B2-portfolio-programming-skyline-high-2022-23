@@ -1,5 +1,5 @@
 # This is my README file for Programming in 2022-23 year of High School
-### For Semester 1, you will need to download processing from a website called Processing.org
+### For Semester 1, you will need to download Processing from a website called Processing.org
 ### For Semester 2, you will need to use a website called Replit.com.
 
 
