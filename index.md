@@ -105,7 +105,7 @@ A game I made in my Sophmore year of Highschool
 
 [Swampland](https://github.com/LemScoot/Skyline-High-Programming-2022-23/blob/main/src/app.zip)
 
-#### Placeholder Game
+#### Snake Clone
 Another game I made in Junior year of HIghschool
 
-[Placeholder Game]()
+[Snake Clone](https://github.com/LemScoot/Group-Project-for-Programming-2023)
