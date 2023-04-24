@@ -108,4 +108,4 @@ A game I made in my Sophmore year of Highschool
 #### Snake Clone
 Another game I made in Junior year of HIghschool
 
-[Snake Clone](https://github.com/LemScoot/Group-Project-for-Programming-2023/tree/main/src)
+[Snake Clone](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/src/Snake_Man.zip)
