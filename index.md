@@ -106,6 +106,6 @@ A game I made in my Sophmore year of Highschool
 [Swampland](https://github.com/LemScoot/Skyline-High-Programming-2022-23/blob/main/src/app.zip)
 
 #### Snake Clone
-Another game I made in Junior year of HIghschool
+A game I made in my Junior year of HIghschool
 
 [Snake Clone](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/src/Snake_Man.zip)
