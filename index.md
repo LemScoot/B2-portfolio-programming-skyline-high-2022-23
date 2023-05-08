@@ -26,7 +26,7 @@ This is pretty fun but you have to make a new line everytime you want to draw so
 [Etch-A-Sketch](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/Etch-A-Sketch)
 
 #### Convertors
-This I can make a lot of. It's really easy. to make another clone of it
+This I can make a lot of. It's really easy to make another clone of it
 
 [Temperature Convertor](https://github.com/LemScoot/Skyline-high-Programming-2022-23/tree/main/src/TempConverter)
 
