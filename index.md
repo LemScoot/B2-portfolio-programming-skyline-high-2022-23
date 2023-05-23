@@ -2,8 +2,10 @@
 ### For Semester 1, you will need to download Processing from a website called Processing.org
 ### For Semester 2, you will need to use a website called Replit.com or Processing (Especially for the Snake Clone)
 
+
 # Contact Info
 ## E-Mail - loginid737@gmail.com
+
 
 # Semester 1 - Made in Java
 
